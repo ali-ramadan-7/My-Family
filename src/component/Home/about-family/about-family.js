@@ -35,7 +35,7 @@ const AboutFamily = () => {
       parturient sit euismod placerat. Orci ante luctus praesent torquent orci commodo aptent blandit.
       Placerat arcu dui potenti; nullam taciti taciti amet.</p></div>
     </div>
-    <Button className='about-f-button' variant="outline-primary" href ='/story'> Learn More </Button>{''}
+    <Button className='about-f-button' variant="outline-primary" href ='/story'> Learn More </Button>
     </Container>
     </Fragment>
   )

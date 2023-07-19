@@ -1,0 +1,54 @@
+.om-card {
+
+    gap: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax( 200px, 1fr));
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.one-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.m-card {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: white;
+    box-shadow: rgba(150, 147, 254, 0.803) 0px 0px 50px -12px inset, rgba(68, 16, 240, 0.3) 0px 0px 16px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one-card svg{
+    width: 50px;
+    height: 50px;
+    color: var(--main-color);
+    transition-duration: 0.3s;
+}
+.m-card:hover svg {
+    color: var(--sc-color);
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.prtitle{
+    margin-top: 40px;
+    margin-bottom: -10px;
+
+}
+.ptext{
+    text-align: center;
+
+}
+

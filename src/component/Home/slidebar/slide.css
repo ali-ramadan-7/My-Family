@@ -1,0 +1,23 @@
+
+.carousel-indicators button {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 5px;
+    width: 12px ;
+    height: 12px ;
+    background-color: white;
+    border: none;
+    padding: 0;
+    opacity: 0.7;
+
+}
+
+.carousel-indicators .active {
+    background-color: var(--th-color);
+}
+.edit-margin {
+    margin-top: 70px;
+}

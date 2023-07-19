@@ -1,0 +1,30 @@
+.about-f {
+    position: relative;
+    margin-bottom: 40px;
+}
+.about-f>p:first-child {
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.about-f .details {
+    margin-top: 30px;
+    opacity: .5;
+}
+.about-f-button {
+    position: absolute;
+    left: calc(50% - 50px) ;
+    padding: 7px 20px !important ;
+    
+}
+.about-f p {
+    display: inline-block;
+}
+.about-f svg {
+    color: var(--main-color);
+    width: 30px;
+    height: 25px;
+    font-weight: 500;
+    display: inline-block;
+}

@@ -1,0 +1,31 @@
+.story-one {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    gap: 30px;
+    background-color: rgba(71, 11, 251, 0.05);
+    padding: 30px 10px;
+}
+.story-two {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 30px;
+    padding: 30px 10px;
+}
+.text-story {
+    width: 50%;
+}
+.story-one img , .story-two img {
+    width: 48%;
+}
+@media (max-width:992px) {
+    .story-one ,.story-two {
+        flex-wrap: wrap;
+    }
+    .text-story {
+        width: 100%;
+    }
+    .story-one img , .story-two img {
+        width: 100%;
+    }
+}

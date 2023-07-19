@@ -1,0 +1,19 @@
+.m-footer {
+    background-color: var(--dark-color);
+    margin-top: 70px;
+}
+.m-footer p {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.m-footer h2 {
+    margin: 30px;
+    font-weight: bold;
+
+}
+.name-designer {
+    color: var(--main-color);
+}
+.name-designer:hover {
+    color: var(--sc-color);
+}

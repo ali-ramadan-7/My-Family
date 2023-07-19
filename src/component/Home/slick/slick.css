@@ -1,0 +1,16 @@
+.slick img{
+    height: auto;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (max-width:576px) {
+    .slick-prev,
+    .slick-next {
+        display: none !important;
+    }
+}
+.slick-prev:before, 
+.slick-next:before {
+    color: var(--main-color) !important;
+}

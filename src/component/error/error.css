@@ -1,0 +1,14 @@
+.error {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.error svg {
+    margin-left:calc(50% - 50px);
+    width: 100px;
+    height: auto;
+    color: var(--th-color);
+}
+.error h2 , .error h3 {
+    color: var(--main-color);
+
+}

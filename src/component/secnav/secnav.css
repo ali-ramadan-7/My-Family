@@ -1,0 +1,18 @@
+.sec-nav {
+    background-color: rgba(160, 160, 160, 0.1);
+    display: flex;
+    padding: 10px 40px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 72px;
+}
+.parent-page {
+    color: var(--main-color);
+}
+.child-page {
+    color: var(--th-color);
+}
+.sec-nav .ptitle {
+    margin-bottom: 0;
+    font-weight: 300;
+}

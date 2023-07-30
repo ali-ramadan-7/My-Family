@@ -25,7 +25,7 @@ function IconCard() {
         <OCard picon=<BiAt/> prtitle="Contact" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
         <OCard picon=<BiBaseball/> prtitle="Sport" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
         <OCard picon=<BiBowlHot/> prtitle="Gathering" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
-        <OCard picon=<BiBriefcaseAlt2/> prtitle="Jop" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
+        <OCard picon=<BiBriefcaseAlt2/> prtitle="Job" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
         <OCard picon=<BiCake/> prtitle="Occasion" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
         <OCard picon=<BiCamera/> prtitle="Camera" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
         <OCard picon=<BiCameraMovie/> prtitle="Movie" ptext="Minim veniam, aliquip ex ea commodo consequat tarad limino"/>
